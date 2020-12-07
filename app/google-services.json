@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "546475969608",
+    "firebase_url": "https://calisthenics-98d8a.firebaseio.com",
+    "project_id": "calisthenics-98d8a",
+    "storage_bucket": "calisthenics-98d8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546475969608:android:0e5eb262b01e4123301c7d",
+        "android_client_info": {
+          "package_name": "com.e.and1appmycalisthenics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546475969608-6q543va3glnd8kh2kd9biuqsl2u4klmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5AZA0B0YhUWoy6enJcAl-eeJfZLm7BQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546475969608-6q543va3glnd8kh2kd9biuqsl2u4klmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546475969608:android:fda6bd7373727fd1301c7d",
+        "android_client_info": {
+          "package_name": "com.e.mycalisthenics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546475969608-3u727n16kf0c6uog609237vc3o55f804.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.mycalisthenics",
+            "certificate_hash": "2dff16c94f6604f523bac737338d58cbb031f93e"
+          }
+        },
+        {
+          "client_id": "546475969608-6q543va3glnd8kh2kd9biuqsl2u4klmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5AZA0B0YhUWoy6enJcAl-eeJfZLm7BQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546475969608-6q543va3glnd8kh2kd9biuqsl2u4klmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
